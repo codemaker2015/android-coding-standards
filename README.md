@@ -48,7 +48,8 @@ Each attribute should appear on its own line.
 XML tags should be ordered as follows: 'xmlns' first, then id, then layout_width and layout_height then alphabetically. 
 
 Add a space between the closing slash and the final attribute. 
-E.g. ```android:textSize="10dp" />```
+
+Eg. ```android:textSize="10dp" />```
 
 #### IDE Auto format
 
@@ -57,7 +58,7 @@ Automatic formatting rules for our coding standards are stored in an Android Stu
 #### Id names
 Layout resource ids should use the following naming convention where possible:<br/>
 ```<layout name>_<object type>_<object name>```<br/>
-E.g.
+Eg.
 ```
 friends_listview_icon
 friends_item_imageview_follow_icon
@@ -86,7 +87,9 @@ Given a layout called login.xml:
 #### Javadoc
 Any new classes that are committed must include a class descriptor Javadoc along with:
 ```@author name@address.com```
+
 Eg: ```@author codemaker2015@gmail.com```
+
 Javadoc any public methods, variables and constants. Javadoc private methods where beneficial.
 
 #### Comments
@@ -105,9 +108,9 @@ Write clear commit messages and should be a max of 50 characters and separated f
 #### Branching
 Follow a branching plan to track different lines of development, avoid merge conflicts, prevent overwriting of existing changes, and avoid lost updates.
 
-### Review
+#### Review
 
-Test and review before you commit to make sure your code works as expected and doesn’t conflict with other changes made by other developer
+Test and review before you commit to make sure your code works as expected and doesn’t conflict with other changes made by other developer.
 
 #### Comments
 
