@@ -26,6 +26,8 @@
 #### Style
 Follow the official Android code style guidelines: [http://source.android.com/source/code-style.html](http://source.android.com/source/code-style.html)
 
+[Importance of coding standards and best practices in software development](https://codemaker2015.medium.com/importance-of-coding-standard-and-best-practices-in-software-development-ac667a80254d)
+
 #### Indentation
 Use 4 spaces per indentation level and no tabs.
 
