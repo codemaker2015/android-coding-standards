@@ -1,4 +1,4 @@
-Android Coding Standards
+# Android Coding Standards
 
 ## Table of contents
 
